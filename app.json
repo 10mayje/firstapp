@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "PROJECTNAME",
-    "slug": "PROJECTNAME",
+    "name": "Reminder Note",
+    "slug": "remendernote",
     "platforms": [
       "ios",
       "android",
@@ -23,6 +23,7 @@
     ],
     "ios": {
       "supportsTablet": true
-    }
+    },
+    "description": "this app made for keeping up to date with our dally work done  "
   }
 }
